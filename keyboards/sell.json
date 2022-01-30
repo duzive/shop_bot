@@ -1,0 +1,15 @@
+{
+    "buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "💰Продать",
+                    "payload": "{\"sell\":\"sell\"}"
+                },
+                "color": "negative"
+            }
+        ]
+    ],
+    "inline": true
+}

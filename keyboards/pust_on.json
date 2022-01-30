@@ -1,0 +1,15 @@
+{
+    "buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "✅Включить уведомления",
+                    "payload": "{\"push\":\"on\"}"
+                },
+                "color": "positive"
+            }
+        ]
+    ],
+    "inline": true
+}

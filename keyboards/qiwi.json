@@ -1,0 +1,15 @@
+{
+    "buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "💳Установить счет",
+                    "payload": "{\"sell\":\"qiwi\"}"
+                },
+                "color": "primary"
+            }
+        ]
+    ],
+    "inline": true
+}

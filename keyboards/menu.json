@@ -1,0 +1,50 @@
+{
+    "buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "👤Профиль",
+                    "payload": "{\"menu\":\"profile\"}"
+                },
+                "color": "secondary"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "📈Купить коины",
+                    "payload": "{\"menu\":\"buy\"}"
+                },
+                "color": "positive"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "📉Продать коины",
+                    "payload": "{\"menu\":\"sell\"}"
+                },
+                "color": "negative"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "💰Бонус",
+                    "payload": "{\"menu\":\"bonus\"}"
+                },
+                "color": "primary"
+            },
+            {
+                "action": {
+                    "type": "text",
+                    "label": "👥Партнерка",
+                    "payload": "{\"menu\":\"ref_system\"}"
+                },
+                "color": "primary"
+            }
+        ]
+    ]
+}

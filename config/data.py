@@ -1,0 +1,5 @@
+MONGO_HOST = "mongo url"
+QIWIP2P_TOKEN = "2p2 token"
+QIWI_TOKEN = "qiwi token"
+VK_TOKEN = "vk token"
+VKCOIN_TOKEN = "vkcoin token"

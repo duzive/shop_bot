@@ -1,0 +1,24 @@
+{
+    "buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "💳Проверить оплату",
+                    "payload": "{\"bill\":\"check\"}"
+                },
+                "color": "positive"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "😥Отказаться от оплаты",
+                    "payload": "{\"menu\": \"back\"}"
+                },
+                "color": "negative"
+            }
+        ]
+    ]
+}

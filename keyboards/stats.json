@@ -1,0 +1,25 @@
+{
+    "buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "📈Топ покупателей",
+                    "payload": "{\"stats\":\"top_buyers\"}"
+                },
+                "color": "primary"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "📉Топ продавцов",
+                    "payload": "{\"stats\":\"top_sellers\"}"
+                },
+                "color": "negative"
+            }
+        ]
+    ],
+    "inline": true
+}

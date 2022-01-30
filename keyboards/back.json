@@ -1,0 +1,14 @@
+{
+    "buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "Назад",
+                    "payload": "{\"menu\":\"back\"}"
+                },
+                "color": "secondary"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "💳Купить",
+                    "payload": "{\"buy\":\"buy\"}"
+                },
+                "color": "positive"
+            }
+        ]
+    ],
+    "inline": true
+}

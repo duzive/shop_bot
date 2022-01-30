@@ -1,0 +1,15 @@
+{
+    "buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "⛔Отключить уведомления",
+                    "payload": "{\"push\":\"off\"}"
+                },
+                "color": "negative"
+            }
+        ]
+    ],
+    "inline": true
+}

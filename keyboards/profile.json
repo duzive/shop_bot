@@ -1,0 +1,25 @@
+{
+    "buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "💼Общая статистика",
+                    "payload": "{\"profile\":\"stats\"}"
+                },
+                "color": "primary"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "💳Изменить Qiwi",
+                    "payload": "{\"sell\":\"qiwi\"}"
+                },
+                "color": "primary"
+            }
+        ]
+    ],
+    "inline": true
+}
