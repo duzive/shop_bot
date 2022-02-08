@@ -16,10 +16,7 @@ class CheckFilter(AbstractFilter):
             if text[0][1:] == self.text:
                 if text[1] is not None:
                     return True
-                else:
-                    return False
-            else:
-                return False
+            return False
 
         except Exception:
             return False
