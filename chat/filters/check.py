@@ -1,7 +1,6 @@
 import json
 from vk_maria.longpoll.filters import AbstractFilter
 from vk_maria import types
-from models.user import User
 
 
 class CheckFilter(AbstractFilter):
